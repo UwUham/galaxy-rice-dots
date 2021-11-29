@@ -22,4 +22,4 @@ Most of the other things should be self explanatory.
 - **Compositor:** [picom](https://github.com/yshui/picom)
 - **TUI file manager:** ranger 
 - **Bonsai Tree:** [cbonsai](https://gitlab.com/jallbrit/cbonsai)
-- **Wallpaper:** [wallpaper](https://link.to.be.added)
+- **Wallpaper:** [wallpaper](https://github.com/UwUham/galaxy-rice-dots/raw/main/wallpaper.jpg)
