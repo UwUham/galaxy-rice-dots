@@ -14,7 +14,7 @@ Most of the other things should be self explanatory.
 - Material Design Icons
 - FontAwesome
 
-### Software
+### Software Used
 - **Window Manager:** i3-radius/gaps
 - **Application Menu:** rofi 
 - **Notifications:** [dunst](https://github.com/dunst-project/dunst)
@@ -23,3 +23,7 @@ Most of the other things should be self explanatory.
 - **TUI file manager:** ranger 
 - **Bonsai Tree:** [cbonsai](https://gitlab.com/jallbrit/cbonsai)
 - **Wallpaper:** [wallpaper](https://github.com/UwUham/galaxy-rice-dots/raw/main/wallpaper.jpg)
+
+### Screenshot
+
+<img src="https://preview.redd.it/qej8xwgd5h281.png?width=640&crop=smart&auto=webp&s=1512ef339bdc6924daacef6e5ed0b125d9bd9fcf"></img>
