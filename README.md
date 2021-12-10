@@ -13,6 +13,7 @@ Most of the other things should be self explanatory.
 - FiraCode Nerd Font
 - Material Design Icons
 - FontAwesome
+- Hermit
 
 ### Software Used
 - **Window Manager:** i3-radius/gaps
