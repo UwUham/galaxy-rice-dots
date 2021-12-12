@@ -13,17 +13,29 @@ Most of the other things should be self explanatory.
 - FiraCode Nerd Font
 - Material Design Icons
 - FontAwesome
-- Hermit
 
 ### Software Used
 - **Window Manager:** i3-radius/gaps
 - **Application Menu:** rofi 
 - **Notifications:** [dunst](https://github.com/dunst-project/dunst)
 - **Top Bar:** polybar
-- **Compositor:** [picom](https://github.com/yshui/picom)
+- **Compositor:** [picom (tryone's fork)] (https://github.com/tryone/compton) 
 - **TUI file manager:** ranger 
 - **Wallpaper:** [wallpaper](https://github.com/UwUham/galaxy-rice-dots/raw/main/wallpaper.jpg)
 
-### Screenshot
+## Installation
+- These dotfiles have been made to work most easily with Arch Linux, however I believe that most other distros have the required packages available.
 
-<img src="https://preview.redd.it/qej8xwgd5h281.png?width=640&crop=smart&auto=webp&s=1512ef339bdc6924daacef6e5ed0b125d9bd9fcf"></img>
+### Arch Linux
+`yay -Qqe > dependencies.txt; yay -S < dependencies.txt`
+
+### Other distributions
+You need to figure out where and how to find and install these fonts and
+programs yourself. Most should be available through your distributions package
+manager, and those that aren't (picom) can be somewhat easily compiled:
+tyrone's fork of picom is documented towards Ubuntu and other Debian based
+distributions.
+
+## Screenshot
+
+<img src="screenshot.png"></img>

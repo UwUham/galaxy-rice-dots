@@ -1,0 +1,11 @@
+nerd-fonts-fira-code
+ttf-material-design-icons
+ttf-font-awesome-4
+i3-gaps
+rofi
+dunst
+picom-tryone-git
+polybar
+picom
+pfetch
+neofetch
