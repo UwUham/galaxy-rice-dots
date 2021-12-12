@@ -19,7 +19,7 @@ Most of the other things should be self explanatory.
 - **Application Menu:** rofi 
 - **Notifications:** [dunst](https://github.com/dunst-project/dunst)
 - **Top Bar:** polybar
-- **Compositor:** [picom (tryone's fork)](https://github.com/tryone/compton) 
+- **Compositor:** [picom (tryone's fork)](https://github.com/tryone144/compton) 
 - **TUI file manager:** ranger 
 - **Wallpaper:** [wallpaper](https://github.com/UwUham/galaxy-rice-dots/raw/main/wallpaper.jpg)
 
