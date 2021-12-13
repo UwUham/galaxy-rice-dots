@@ -27,7 +27,7 @@ Most of the other things should be self explanatory.
 - These dotfiles have been made to work most easily with Arch Linux, however I believe that most other distros have the required packages available.
 
 ### Arch Linux
-`yay -Qqe > dependencies.txt; yay -S < dependencies.txt`
+`yay -S --needed - < dependencies.txt`
 
 ### Other distributions
 You need to figure out where and how to find and install these fonts and
