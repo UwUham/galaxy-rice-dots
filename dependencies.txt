@@ -9,3 +9,4 @@ polybar
 picom
 pfetch
 neofetch
+zsh
