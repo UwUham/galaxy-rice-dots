@@ -33,7 +33,7 @@ Most of the other things should be self explanatory.
 You need to figure out where and how to find and install these fonts and
 programs yourself. Most should be available through your distributions package
 manager, and those that aren't (picom) can be somewhat easily compiled:
-tyrone's fork of picom is documented towards Ubuntu and other Debian based
+[tryone's fork of picom](https://github.com/tryone144/compton)  is documented towards Ubuntu and other Debian based
 distributions.
 
 ## Screenshot
