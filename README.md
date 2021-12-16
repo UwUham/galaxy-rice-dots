@@ -26,15 +26,26 @@ Most of the other things should be self explanatory.
 ## Installation
 - These dotfiles have been made to work most easily with Arch Linux, however I believe that most other distros have the required packages available.
 
-### Arch Linux
+### Dependencies
+
+#### Arch Linux
 `yay -S --needed - < dependencies.txt`
 
-### Other distributions
+#### Other distributions
 You need to figure out where and how to find and install these fonts and
 programs yourself. Most should be available through your distributions package
 manager, and those that aren't (picom) can be somewhat easily compiled:
 [tryone's fork of picom](https://github.com/tryone144/compton)  is documented towards Ubuntu and other Debian based
 distributions.
+
+### Applying dotfiles (assuming that you have installed all dependencies)
+```
+cd
+git clone https://github.com/UwUham/galaxy-rice-dots
+cp -r .config .config-bak
+cd galaxy-rice-dots/.config
+cp -r * ~/.config
+```
 
 ## Screenshot
 
