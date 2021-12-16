@@ -46,6 +46,12 @@ cp -r .config .config-bak
 cd galaxy-rice-dots/.config
 cp -r * ~/.config
 ```
+### Reverting to your old dotfiles
+```
+cd
+rm -rf .config
+cp .config-bak .config
+```
 
 ## Screenshot
 
