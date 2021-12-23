@@ -1,6 +1,6 @@
 # Galaxy Rice
 
-These is a galaxy themed skin for i3 window manager.
+These are dotfiles for a galaxy themed skin for i3 window manager.
 
 You will need to change some configs to fit your files and preferences and maybe tweak the icons on polybar etc. 
 
