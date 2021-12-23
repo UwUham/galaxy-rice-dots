@@ -45,6 +45,9 @@ git clone https://github.com/UwUham/galaxy-rice-dots
 cp -r .config .config-bak
 cd galaxy-rice-dots/.config
 cp -r * ~/.config
+cd ..
+mkdir -p ~/Pictures/Wallpapers
+cp wallpaper.jpg ~/Pictures/Wallpapers/
 ```
 ### Reverting to your old dotfiles
 ```
